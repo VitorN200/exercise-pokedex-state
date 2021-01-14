@@ -1,3 +1,8 @@
 .App {
   text-align: center;
 }
+
+.nextPokemon {
+  width: 100px;
+  margin: 50px auto;
+}
