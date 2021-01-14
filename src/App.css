@@ -6,3 +6,10 @@
   width: 100px;
   margin: 50px auto;
 }
+
+.typeButton {
+  width: 100px;
+  margin: 20px;
+  color: white;
+  background-color: green;
+}
